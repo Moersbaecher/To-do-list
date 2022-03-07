@@ -1,0 +1,58 @@
+p{
+    font-family: Bradley Hand ITC;
+    font-weight: 600;
+    color:#2045fa;
+    position: relative;
+    text-align: left;
+    top:-16px;
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 1em;
+ }
+ 
+ p button{
+     color: #2045fa;
+     font-weight: 600;
+     background-color: Transparent;
+     background-repeat:no-repeat;
+     border: none;
+     position: absolute;
+     right: -1px;
+ }
+
+ h1{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+#list{
+    background: linear-gradient(
+        to bottom,
+        #f2e71d,
+        #f2e71d 95%,
+        #f21d1d 5%
+      );
+    height: 550px;
+    width: 50%;
+    margin: auto;
+    margin-top: 1.5em;
+    padding-top: 2em;
+    text-align: center;
+    background-size: 100% 20px;
+    border-radius: 10px;
+    border: #f2e71d 8px solid;
+}
+
+.layout{
+    background-color: darkgrey;
+    height: 750px;
+    width: 50%;
+    margin: auto;
+    padding-top: 2em;
+    text-align: center;
+    background-size: 100% 20px;
+}
+
+.form-control{
+    margin-left: 35%;
+}
